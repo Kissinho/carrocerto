@@ -112,7 +112,7 @@
                             <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Modelo" name="txt_modelo">
 
                               
-                            <select class="form-control form-control-sm" name="txt_versao">
+                           
                            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Versão" name="txt_versao">
 
                
